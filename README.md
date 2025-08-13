@@ -31,18 +31,6 @@ O projeto segue um fluxo de trabalho (pipeline) robusto e automatizado:
 
 ---
 
-## 📂 Estrutura do Projeto
-
-.
-├── data/
-│   └── temperature_readings.csv
-├── create_views.py
-├── dashboard.py
-├── drop_views.py
-├── ingestao.py
-└── README.md
-
-
 ## ⚙️ Passo a Passo para Execução
 
 Siga os passos abaixo para configurar e executar o pipeline completo em sua máquina.
