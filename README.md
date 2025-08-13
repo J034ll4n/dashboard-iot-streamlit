@@ -1,4 +1,3 @@
-
 # 🌡️ Pipeline de Dados Futurista com IoT e Docker
 
 ## 🚀 Visão Geral do Projeto
@@ -20,6 +19,17 @@ O projeto segue um fluxo de trabalho (pipeline) robusto e automatizado:
 * **PostgreSQL**: Banco de dados relacional para armazenamento dos dados.
 * **Streamlit**: Framework para a construção do dashboard web de forma rápida e intuitiva.
 * **Plotly Express**: Para a criação de gráficos interativos e visualmente atraentes.
+
+---
+
+## 🖼️ Visualização do Dashboard
+
+<img src="https://raw.githubusercontent.com/J034ll4n/dashboard-iot-streamlit/main/image/Metricas.png" alt="Métricas Globais">
+<img src="https://raw.githubusercontent.com/J034ll4n/dashboard-iot-streamlit/main/image/Comparativa.png" alt="Comparativa Interno vs Externo">
+<img src="https://raw.githubusercontent.com/J034ll4n/dashboard-iot-streamlit/main/image/Variacao.png" alt="Variação de Temperatura por ambiente ">
+<img src="https://raw.githubusercontent.com/J034ll4n/dashboard-iot-streamlit/main/image/Mensal.png" alt="Análise Mensal">
+
+---
 
 ## 📂 Estrutura do Projeto
 
@@ -98,12 +108,6 @@ O dashboard foi projetado para responder às perguntas-chave levantadas no datas
 * **Box Plot (Variação):** Visualiza a variação da temperatura entre os ambientes interno e externo, identificando a dispersão dos dados.
 * **Análise Mensal (Gráfico de Barras):** Responde à pergunta "Qual foi o mês mais quente/frio?" mostrando a temperatura média de cada mês.
 * **Índice de Calor:** Apresenta uma tabela de referência que contextualiza os dados de temperatura com o nível de desconforto humano, transformando os dados brutos em informações úteis.
-
-## 🖼️ Visualização do Dashboard
-<img src="images/Metricas.png" alt="Métricas Globais" width="600">
-<img src="images/Comparativa.png" alt="Comparativa Interno vs Externo" width="600">
-<img src="images/Variacao.png" alt="Variação de Temperatura por ambiente " width="600">
-<img src="images/Mensal.png" alt="Análise Mensal" width="600">
 
 ## 📚 Fonte dos Dados
 
